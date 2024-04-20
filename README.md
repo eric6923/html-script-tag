@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project integrates the Vapi client into any website, providing a voice assistant for support purposes. The Vapi client is powered by an easy-to-install JavaScript SDK, which is included in the website via a simple code snippet.
-
+This project integrates the Vapi client into any website, providing a voice assistant for support purposes. The Vapi client is powered by an easy-to-install JavaScript SDK, which is included in the website via a simple code snipp
 ## Features
 
 - **Voice Assistant**: Enhance user experience with our voice assistant instantly.
